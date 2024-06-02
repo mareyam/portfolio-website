@@ -10,9 +10,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/mareyam/portfolio-website/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/mareyam/portfolio-website/issues">Request Feature</a>
 </h3>
 
 
@@ -53,6 +53,3 @@ Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
 
-=======
-# portfolio-website
->>>>>>> f4470d515946cf208b100c805c2673ae370bea5b
